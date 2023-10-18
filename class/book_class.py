@@ -12,7 +12,3 @@ class Book:
               "\nAuthor:", self.author,
               "\nPrice:", self.price, "BDT")
     
-b1 = Book("Opekkha", "Humayun Ahmed")
-b1.details()
-b1.set_price(255)
-b1.details()
